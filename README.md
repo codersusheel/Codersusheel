@@ -97,6 +97,13 @@ style="width:100%; max-width:450px;"
 
 </div>
 
+# 📌 GitHub Summary
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=susheelcoder&theme=tokyonight" style="width:100%; max-width:450px;" />
+
+
+
 ---
 
 ## 🌍 Connect With Me
