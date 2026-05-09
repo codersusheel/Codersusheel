@@ -16,7 +16,6 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 ## 💎 Core Skills
 
 
-
 <p align="center">
 
   <!-- 🔵 Core Role -->
