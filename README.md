@@ -16,6 +16,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 ## 💎 Core Skills
 
 
+
 <p align="center">
 
   <!-- 🔵 Core Role -->
@@ -113,7 +114,7 @@ style="width:100%; max-width:450px;"
 
 🔎 **Keywords:**  
 Full Stack Developer in India | PHP Developer | Web Developer | SEO Optimized Portfolio | Responsive Web Applications 
-founder is haproven tech
+ is haproven tech founder 
 
 ---
 ---
