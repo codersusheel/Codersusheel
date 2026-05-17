@@ -1,7 +1,7 @@
-# Hey 👋 , I'm Susheel Kumar  (Susheelcoder)
+# Hey 👋 , I'm Susheel Kumar  ()
 ## 🌐 Full Stack Developer | SEO Optimized Web Developer  
 
-🔗 [Visit My Portfolio](https://susheelcoder.netlify.app/)
+🔗 [Visit My Portfolio](https://Codersusheel.netlify.app/)
 
 ---
 
@@ -68,7 +68,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 | Project | Description | Live |
 |----------|------------|------|
-| Portfolio | Personal developer portfolio ______________________|🔗 [Open](https://susheelcoder.netlify.app/) |
+| Portfolio | Personal developer portfolio ______________________|🔗 [Open](https://Codersusheel.netlify.app/) |
 | Chhath Puja | Event Web App | 🔗 [Open](https://vishnupur-chhath-puja-2025.netlify.app/home.html) |
 | Haproven | Tech Community | 🔗 [Open](https://haproven.netlify.app/) |
 | HaproID | Identity System | 🔗 [Open](https://haproID.netlify.app/) |
@@ -91,7 +91,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 ## 📊 GitHub Stats
 
 <img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Codersusheel&theme=dark&hide_border=true&background=0d1117" 
 style="width:100%; max-width:450px;"
 />
 
@@ -100,11 +100,11 @@ style="width:100%; max-width:450px;"
 # 📌 GitHub Summary
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=susheelcoder&theme=tokyonight" style="width:100%; max-width:450px;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codersusheel&theme=tokyonight" style="width:100%; max-width:450px;" />
 
 
 🔥 GitHub Contribution Analytics
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=susheelcoder&theme=tokyo-night&hide_border=true&area=true" style="width:100%; max-width:450px;" /> 
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Codersusheel&theme=tokyo-night&hide_border=true&area=true" style="width:100%; max-width:450px;" /> 
 
 
 ---
@@ -113,9 +113,9 @@ style="width:100%; max-width:450px;"
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/susheelcoder)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Codersusheel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://susheelcoder.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://Codersusheel.netlify.app)
 
 </p>
 
