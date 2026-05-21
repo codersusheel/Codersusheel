@@ -44,11 +44,6 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 
 
-<table width="100%" cellspacing="0" cellpadding="20">
-<tr>
-
-<!-- 🔵 LEFT -->
-<td width="50%" valign="top">
 
 ## 🛠 Tech Stack
 
@@ -59,17 +54,21 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 **Programming:** C, C++, C#, Java  
 
-</td>
+
+<table width="100%" cellspacing="0" cellpadding="20">
+<tr>
+
+
 
 <!-- 🔴 RIGHT -->
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ## 🌟 Featured Projects
 
 | Project | Description | Live |
 |----------|------------|------|
 | Portfolio | Personal developer portfolio ______________________|🔗 [Open](https://Codersusheel.netlify.app/) |
-| Chhath Puja | Event Web App | 🔗 [Open](https://vishnupur-chhath-puja-2025.netlify.app/home.html) |
+
 | Haproven | Tech Community | 🔗 [Open](https://haproven.netlify.app/) |
 | HaproID | Identity System | 🔗 [Open](https://haproID.netlify.app/) |
 | Attendance | Teacher & Student System | 🔗 [Open](https://smart-attendance-project-ims.netlify.app/) |
