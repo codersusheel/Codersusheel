@@ -47,12 +47,10 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 ##  Tech Stack
 
-| **Frontend:** HTML5, CSS3, JavaScript  |
-| **Backend:** PHP, REST APIs , json |
-| **Database:** MySQL, MongoDB |  
-| **Tools:** Git, GitHub, VS Code, Netlify, Figma | 
-
-| **Programming:** C, C++, C#, Java  |
+**Frontend:** HTML5, CSS3, JavaScript  
+**Backend:** PHP, REST APIs, json 
+**Database:** MySQL, MongoDB 
+**Tools:** Git, GitHub, VS Code, Netlify, Figma **Programming:** C, C++, C#, Java  
 
 
 
