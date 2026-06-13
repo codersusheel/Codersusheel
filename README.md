@@ -1,7 +1,7 @@
 # Hey , I'm Susheel Kumar (Codersusheel) 
 ##  Full Stack Developer | SEO Optimized Web Developer  
 
-🔗 [Visit My Portfolio](https://Codersusheel.netlify.app/)
+ [Visit My Portfolio](https://Codersusheel.netlify.app/)
 
 ---
 
@@ -61,10 +61,10 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 | Project | Description | Live |
 |----------|------------|------|
-| Portfolio | Personal developer portfolio |🔗 [Open](https://Codersusheel.netlify.app/) |
-| Haproven | Tech Community | 🔗 [Open](https://haproven.netlify.app/) |
-| HaproID | Identity System | 🔗 [Open](https://haproID.netlify.app/) |
-| Attendance | Teacher & Student System | 🔗 [Open](https://smart-attendance-project-ims.netlify.app/) |
+| Portfolio | Personal developer portfolio | [Open](https://Codersusheel.netlify.app/) |
+| Haproven | Tech Community |  [Open](https://haproven.netlify.app/) |
+| HaproID | Identity System |  [Open](https://haproID.netlify.app/) |
+| Attendance | Teacher & Student System |  [Open](https://smart-attendance-project-ims.netlify.app/) |
 
 
 
