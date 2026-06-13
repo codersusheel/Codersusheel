@@ -1,5 +1,5 @@
-# Hey , I'm Susheel Kumar ✔️(Codersusheel) 
-## 🌐 Full Stack Developer | SEO Optimized Web Developer  
+# Hey , I'm Susheel Kumar (Codersusheel) 
+##  Full Stack Developer | SEO Optimized Web Developer  
 
 🔗 [Visit My Portfolio](https://Codersusheel.netlify.app/)
 
