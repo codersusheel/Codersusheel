@@ -1,11 +1,11 @@
-# Hey , I'm Susheel Kumar (Codersusheel) 
+# Hey , I'm Susheel Kumar ( Codersusheel ) 
 ##  Full Stack Developer | SEO Optimized Web Developer  
 
  [Visit My Portfolio](https://Codersusheel.netlify.app/)
 
 ---
 
-##  Professional Summary
+## Professional Summary
 
 I build modern, responsive, and performance-optimized web applications with clean architecture and strong SEO fundamentals.
 
@@ -13,7 +13,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 ---
 
-##  Core Skills
+## Core Skills
 
 
 <p align="center">
@@ -48,7 +48,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 ##  Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript  
-**Backend:** PHP, REST APIs, json, js
+**Backend:** PHP, REST APIs, json
 **Database:** MySQL, MongoDB 
 **Tools:** Git, GitHub, VS Code, Netlify, Figma **Programming:** C, C++, C#, Java  
 
@@ -76,7 +76,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 <div style="flex: 1; min-width: 300px; text-align: center;">
 
-##  GitHub Stats
+## GitHub Stats
 
 <img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=Codersusheel&theme=dark&hide_border=true&background=0d1117" 
@@ -85,7 +85,7 @@ style="width:100%; max-width:450px;"
 
 </div>
 
-#  GitHub Summary
+# GitHub Summary
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codersusheel&theme=tokyonight" style="width:100%; max-width:450px;" />
@@ -97,7 +97,7 @@ style="width:100%; max-width:450px;"
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <p align="center">
 
