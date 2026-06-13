@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 I build modern, responsive, and performance-optimized web applications with clean architecture and strong SEO fundamentals.
 
@@ -13,29 +13,29 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 ---
 
-## 💎 Core Skills
+##  Core Skills
 
 
 <p align="center">
 
-  <!-- 🔵 Core Role -->
+  <!--  Core Role -->
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
 
-  <!-- 🟣 Frontend & UI -->
+  <!-- Frontend & UI -->
   <img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JavaScript-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-Focused-DB2777?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PWA-Developer-6B21A8?style=for-the-badge" />
 
-  <!-- 🟠 Backend & Database -->
+  <!--  Backend & Database -->
   <img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-MongoDB-16A34A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20API-Developer-F97316?style=for-the-badge" />
 
-  <!-- 🟢 Optimization & SEO -->
+  <!--  Optimization & SEO -->
   <img src="https://img.shields.io/badge/Performance-Optimized-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical%20SEO-Web%20Optimization-DC2626?style=for-the-badge" />
 
-  <!-- ⚫ Activity -->
+  <!-- Activity -->
   <img src="https://img.shields.io/badge/Hackathon-Participant-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-111827?style=for-the-badge" />
 
@@ -45,7 +45,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript  
 **Backend:** PHP, REST APIs  
@@ -57,7 +57,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 | Project | Description | Live |
 |----------|------------|------|
@@ -78,7 +78,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 <div style="flex: 1; min-width: 300px; text-align: center;">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=Codersusheel&theme=dark&hide_border=true&background=0d1117" 
@@ -87,19 +87,19 @@ style="width:100%; max-width:450px;"
 
 </div>
 
-# 📌 GitHub Summary
+#  GitHub Summary
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codersusheel&theme=tokyonight" style="width:100%; max-width:450px;" />
 
 
-🔥 GitHub Contribution Analytics
+ GitHub Contribution Analytics
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Codersusheel&theme=tokyo-night&hide_border=true&area=true" style="width:100%; max-width:450px;" /> 
 
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
@@ -111,7 +111,7 @@ style="width:100%; max-width:450px;"
 
 ---
 
-🔎 **Keywords:**  
+ **Keywords:**  
 Full Stack Developer in India | PHP Developer | Web Developer | SEO Optimized Portfolio | Responsive Web Applications 
 founder is haproven tech
 
