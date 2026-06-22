@@ -45,32 +45,6 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 
 
-##  Tech Stack
-
-**Frontend:** HTML5, CSS3, JavaScript  
-**Backend:** PHP, REST APIs, json
-**Database:** MySQL, MongoDB 
-**Tools:** Git, GitHub, VS Code, Netlify, Figma **Programming:** C, C++, C#, Java  
-
-
-
-
-##  Featured Projects
-
-| Project | Description | Live |
-|----------|------------|------|
-| Portfolio | Personal developer portfolio | [Open](https://Codersusheel.netlify.app/) |
-| Haproven | Tech Community |  [Open](https://haproven.netlify.app/) |
-| HaproID | Identity System |  [Open](https://haproID.netlify.app/) |
-| Attendance | Teacher & Student System |  [Open](https://smart-attendance-project-ims.netlify.app/) |
-
-
-
-
-
-
-
-
 
 
 
