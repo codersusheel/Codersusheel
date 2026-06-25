@@ -112,7 +112,7 @@ style="width:100%; max-width:450px;"
   style="width:100%; max-width:450px;"
 />
 
-## Coding Language Stats
+---
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersusheel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
   style="width:100%; max-width:450px ;height:auto; "
