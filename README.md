@@ -82,7 +82,6 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 
 
-<div style="flex: 1; min-width: 300px; text-align: center;">
 
 ## 📊 GitHub Stats
 
@@ -98,16 +97,26 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Codersusheel&theme=d
 style="width:100%; max-width:450px;"
 />
 
-</div>
-
-# GitHub Summary
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codersusheel&theme=tokyonight" style="width:100%; max-width:450px;" />
 
 
- GitHub Contribution Analytics
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Codersusheel&theme=tokyo-night&hide_border=true&area=true" style="width:100%; max-width:450px;" /> 
+## 📊 GitHub Summary
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codersusheel&theme=transparent"
+  style="width:100%; max-width:450px;"
+/>
+
+---
+
+## 📈 GitHub Contribution Analytics
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Codersusheel&theme=github-compact&hide_border=true&area=true&bg_color=00000000"
+  style="width:100%; max-width:450px;"
+/>
+
 
 
 ---
