@@ -104,7 +104,6 @@ style="width:100%; max-width:450px;"
   style="width:100%; max-width:450px;"
 />
 
----
 
 ## GitHub Contribution Analytics
 
