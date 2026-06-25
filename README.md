@@ -1,27 +1,8 @@
 # Hey , I'm Susheel Kumar ( Codersusheel ) 
 ##  Full Stack Developer | SEO Optimized Web Developer  
 
- [Visit My Portfolio](https://Codersusheel.netlify.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=codersusheel&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## Professional Summary
-
-I build modern, responsive, and performance-optimized web applications with clean architecture and strong SEO fundamentals.
-
-I focus on creating scalable digital solutions with great UI/UX and efficient backend integration.
-
----
 
 
-
-
-<h1 align="center">Hey 👋, I'm Sushil Kumar</h1>
-
-<h2 align="center">
-Full Stack Developer | SEO Optimized Web Developer
-</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Creator+of+Supabase-PHP;Building+Open+Source+Projects;PHP+%7C+Node.js+Developer;Laravel+Community+Contributor;Backend+%26+DevOps+Learner;Always+Building+Something+Cool+%F0%9F%9A%80" />
