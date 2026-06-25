@@ -87,11 +87,9 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 ## 📊 GitHub Stats
 
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=codersusheel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-  />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codersusheel&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00"
+  onerror="this.src='https://github-readme-stats.vercel.app/api?username=Codersusheel&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00'"
+  alt="SVG" style="width:100%; height:auto;" />
 
 ## GitHub Stats
 
