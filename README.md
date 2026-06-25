@@ -1,15 +1,16 @@
-# Hey , I'm Susheel Kumar ( Codersusheel ) 
-##  Full Stack Developer | SEO Optimized Web Developer  
+<h1 align="center">👋 Hi, I'm Susheel Kumar ( CoderSusheel )</h1>
 
-
+<p align="center">
+  <b>Full Stack Developer | SEO Enthusiast</b>
+</p>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Creator+of+Supabase-PHP;Building+Open+Source+Projects;PHP+%7C+Node.js+Developer;Laravel+Community+Contributor;Backend+%26+DevOps+Learner;Always+Building+Something+Cool+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;PHP+%7C+Node.js+%7C+JavaScript;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 </p>
 
----
 
+---
 <p align="center">
 
 
@@ -78,12 +79,7 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 
 
-
-
-
-
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codersusheel&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00"
@@ -101,7 +97,7 @@ style="width:100%; max-width:450px;"
 
 
 
-## 📊 GitHub Summary
+## GitHub Summary
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codersusheel&theme=transparent"
@@ -110,11 +106,17 @@ style="width:100%; max-width:450px;"
 
 ---
 
-## 📈 GitHub Contribution Analytics
+## GitHub Contribution Analytics
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Codersusheel&theme=github-compact&hide_border=true&area=true&bg_color=00000000"
   style="width:100%; max-width:450px;"
+/>
+
+## Coding Language Stats
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersusheel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+  style="width:100%; max-width:450px ;height:auto; "
 />
 
 
