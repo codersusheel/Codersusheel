@@ -21,9 +21,6 @@
 <img src="https://komarev.com/ghpvc/?username=codersusheel&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </a>
 
-<a href="https://twitter.com/CodeSushil">
-<img src="https://img.shields.io/twitter/follow/CodeSushil?logo=x&style=for-the-badge" />
-</a>
 
 <a href="https://github.com/codersusheel?tab=followers">
 <img src="https://img.shields.io/github/followers/codersusheel?style=for-the-badge&logo=github" />
