@@ -39,11 +39,13 @@
 <img align="right" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 
 
-## Professional Summary
+## 🚀 Professional Summary
 
-I build modern, responsive, and performance-optimized web applications with clean architecture and strong SEO fundamentals.
+Founder of **Haproven Ecosystem**, I build modern, scalable, and performance-optimized web applications with clean architecture and strong SEO fundamentals.
 
-I focus on creating scalable digital solutions with great UI/UX and efficient backend integration.
+I focus on designing **high-quality digital products** with great UI/UX, efficient backend systems, and real-world usability.
+
+Passionate about building tools, platforms, and open-source solutions that help developers learn, grow, and collaborate.  , matlab samjhao
 
 ---
 
