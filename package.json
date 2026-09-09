@@ -1,0 +1,8 @@
+{
+  "name": "codersusheel-github-stats",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "generate": "node generate.js"
+  }
+}
