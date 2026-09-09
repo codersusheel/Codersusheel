@@ -37,6 +37,15 @@ I build and lead **Haproven Tech**, develop modern digital products and web appl
 
 ---
 
+<div align="center">
+
+<img
+  src="https://github.com/codersusheel/github-stats/blob/main/generated/languages.svg"
+  alt="CoderSusheel GitHub Languages"
+/>
+
+</div>
+
 <p align="center">
   <b>Build with Purpose • Lead with Vision • Grow Together 🚀</b>
 </p>
