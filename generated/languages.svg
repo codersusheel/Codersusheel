@@ -1,0 +1,173 @@
+<svg width="450" height="430"
+     viewBox="0 0 450 430"
+     xmlns="http://www.w3.org/2000/svg">
+
+<style>
+  .title {
+    font: 700 20px Arial;
+    fill: #24292f;
+  }
+
+  .language {
+    font: 600 14px Arial;
+    fill: #24292f;
+  }
+
+  .percent {
+    font: 500 13px Arial;
+    fill: #57606a;
+  }
+
+  .bar-bg {
+    fill: #d0d7de;
+  }
+
+  .bar {
+    fill: #0969da;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .title,
+    .language {
+      fill: #f0f6fc;
+    }
+
+    .percent {
+      fill: #8b949e;
+    }
+
+    .bar-bg {
+      fill: #30363d;
+    }
+
+    .bar {
+      fill: #58a6ff;
+    }
+  }
+</style>
+
+<rect x="1"
+      y="1"
+      width="448"
+      height="428"
+      rx="14"
+      fill="transparent"
+      stroke="#30363d"/>
+
+<text x="35"
+      y="45"
+      class="title">
+  💻 Languages
+</text>
+
+
+      <text x="35" y="115"
+            class="language">HTML</text>
+
+      <rect x="35" y="125"
+            width="330"
+            height="8"
+            rx="4"
+            class="bar-bg"/>
+
+      <rect x="35" y="125"
+            width="247.82999999999996"
+            height="8"
+            rx="4"
+            class="bar"/>
+
+      <text x="385" y="132"
+            class="percent">75.1%</text>
+    
+      <text x="35" y="163"
+            class="language">CSS</text>
+
+      <rect x="35" y="173"
+            width="330"
+            height="8"
+            rx="4"
+            class="bar-bg"/>
+
+      <rect x="35" y="173"
+            width="44.55"
+            height="8"
+            rx="4"
+            class="bar"/>
+
+      <text x="385" y="180"
+            class="percent">13.5%</text>
+    
+      <text x="35" y="211"
+            class="language">JavaScript</text>
+
+      <rect x="35" y="221"
+            width="330"
+            height="8"
+            rx="4"
+            class="bar-bg"/>
+
+      <rect x="35" y="221"
+            width="30.359999999999996"
+            height="8"
+            rx="4"
+            class="bar"/>
+
+      <text x="385" y="228"
+            class="percent">9.2%</text>
+    
+      <text x="35" y="259"
+            class="language">PHP</text>
+
+      <rect x="35" y="269"
+            width="330"
+            height="8"
+            rx="4"
+            class="bar-bg"/>
+
+      <rect x="35" y="269"
+            width="6.6"
+            height="8"
+            rx="4"
+            class="bar"/>
+
+      <text x="385" y="276"
+            class="percent">2.0%</text>
+    
+      <text x="35" y="307"
+            class="language">Hack</text>
+
+      <rect x="35" y="317"
+            width="330"
+            height="8"
+            rx="4"
+            class="bar-bg"/>
+
+      <rect x="35" y="317"
+            width="0.33"
+            height="8"
+            rx="4"
+            class="bar"/>
+
+      <text x="385" y="324"
+            class="percent">0.1%</text>
+    
+      <text x="35" y="355"
+            class="language">TeX</text>
+
+      <rect x="35" y="365"
+            width="330"
+            height="8"
+            rx="4"
+            class="bar-bg"/>
+
+      <rect x="35" y="365"
+            width="0"
+            height="8"
+            rx="4"
+            class="bar"/>
+
+      <text x="385" y="372"
+            class="percent">0.0%</text>
+    
+
+</svg>
