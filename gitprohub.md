@@ -1,21 +1,33 @@
-# Codersusheel
+# CoderSusheel
 
-## Project
+## Description
 
-title: Codersusheel
-description: Personal developer profile and open-source projects by Codersusheel.
-category: Developer Portfolio
-status: Active
-image:
+CoderSusheel is the developer profile of Susheel Kumar Pandit, Founder & CEO at Haproven Tech, Full-Stack Developer, and Open Source Builder.
 
-## Links
+## Status
 
-live: https://codersusheel.netlify.app/
-demo:
-documentation:
+Active
 
-## Discover
+## Category
 
-tags: developer, portfolio, github, open-source, web-development
-featured: true
-open_source: true
+Developer Profile
+
+## Author
+
+Susheel Kumar Pandit
+
+## Organization
+
+Haproven
+
+## Live
+
+https://codersusheel.netlify.app/
+
+## GitHub
+
+https://github.com/codersusheel
+
+## Image
+
+https://haproid.netlify.app/assets/IMG/user/main/pro-susheel-01.webp
