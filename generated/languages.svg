@@ -71,13 +71,13 @@
             class="bar-bg"/>
 
       <rect x="35" y="125"
-            width="246.17999999999995"
+            width="245.85"
             height="8"
             rx="4"
             class="bar"/>
 
       <text x="385" y="132"
-            class="percent">74.6%</text>
+            class="percent">74.5%</text>
     
       <text x="35" y="163"
             class="language">CSS</text>
@@ -89,13 +89,13 @@
             class="bar-bg"/>
 
       <rect x="35" y="173"
-            width="44.55"
+            width="43.89"
             height="8"
             rx="4"
             class="bar"/>
 
       <text x="385" y="180"
-            class="percent">13.5%</text>
+            class="percent">13.3%</text>
     
       <text x="35" y="211"
             class="language">JavaScript</text>
@@ -107,13 +107,13 @@
             class="bar-bg"/>
 
       <rect x="35" y="221"
-            width="32.34"
+            width="33"
             height="8"
             rx="4"
             class="bar"/>
 
       <text x="385" y="228"
-            class="percent">9.8%</text>
+            class="percent">10.0%</text>
     
       <text x="35" y="259"
             class="language">PHP</text>
