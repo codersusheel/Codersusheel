@@ -107,13 +107,13 @@
             class="bar-bg"/>
 
       <rect x="35" y="221"
-            width="34.65"
+            width="34.98"
             height="8"
             rx="4"
             class="bar"/>
 
       <text x="385" y="228"
-            class="percent">10.5%</text>
+            class="percent">10.6%</text>
     
       <text x="35" y="259"
             class="language">PHP</text>
