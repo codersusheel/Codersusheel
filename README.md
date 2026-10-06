@@ -33,6 +33,8 @@ I build and lead **Haproven Tech**, develop modern digital products and web appl
   <a href="https://www.linkedin.com"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
   <a href="https://haproid.netlify.app/user/pro-susheel-01/"><strong>Pro-susheel-01</strong></a>
+    &nbsp;•&nbsp;
+  <a href="https://haproven.netlify.app/"><strong>haproven Tach</strong></a>
 </p>
 
 ---
