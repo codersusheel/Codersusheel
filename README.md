@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Susheel Kumar (Codersusheel)
+# Susheel Kumar (Codersusheel)
 
 **Founder & CEO at Haproven Tech · Full Stack Developer · Open Source Builder**
 
