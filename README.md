@@ -1,4 +1,4 @@
-# Susheel Kumar (Codersusheel)
+# Susheel Kumar Prajapati  (Codersusheel)
 
 **Founder & CEO at Haproven Tech · Full Stack Developer · Open Source Builder**
 
