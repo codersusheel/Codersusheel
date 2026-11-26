@@ -4,7 +4,7 @@
 
 protocol: GitProHub
 version: 1.3.0
-id: CoderSusheel
+id: codersusheel
 name: CoderSusheel
 owner: codersusheel
 repository: https://github.com/codersusheel/Codersusheel
