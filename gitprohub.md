@@ -23,15 +23,13 @@ open_source: true
 
 
 
-# GitProHub
+
 
 protocol: GitProHub
-version: 1.0
-owner: CoderSusheel
+version: 1.3.0
 id: CoderSusheel
 name: CoderSusheel
-repository: https://github.com/codersusheel/codersusheel
-description: A project registered with GitProHub API.
-status: active
+owner: codersusheel
+repository: https://github.com/codersusheel/CoderSusheel
+description: Testing universal GitProHub repository submission.
 
-GitProHub Scan: { success: true, scanned: 22, added: 0, updated: 3, skipped: 19 }
